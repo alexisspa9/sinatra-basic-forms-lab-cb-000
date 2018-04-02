@@ -8,6 +8,6 @@ get '/new' do
   erb :create_puppy
 end
 post '/' do
-  erb :display+puppy
+  erb :display_puppy
 end
 end
